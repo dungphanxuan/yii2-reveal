@@ -1,0 +1,28 @@
+{
+    "name": "dungphanxuan/yii2-reveal",
+    "description": "Reveal Presentation",
+    "type": "yii2-extension",
+    "keywords": [
+        "html",
+        "text",
+        "editor",
+        "jquery-plugin",
+        "javascript",
+        "jquery"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dungphanxuan",
+            "email": "dungphanxuan@vccorp.vn"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dungphanxuan\\yii2reveal\\": ""
+        }
+    }
+}
