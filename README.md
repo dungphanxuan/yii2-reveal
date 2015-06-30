@@ -6,7 +6,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist froala/yii2-froala-editor "*"
+php composer.phar require --prefer-dist dungphanxuan/yii2-reveal "*"
 ```
 
 or add
